@@ -2,6 +2,8 @@
 #Contains the shell and python scripts. 
 #Can be used with any UI Automation tool like Selenium, Protractor etc. and automate Security testing.
 
+
+
 #Steps:
 1. Start/Enable ZAP so that it can proxy the browser
 2. Start UI automated regression tests so that ZAP can proxy all the pages of the application
